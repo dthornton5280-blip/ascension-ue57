@@ -1,0 +1,29 @@
+# Unreal generated folders
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# IDE and local machine files
+.vs/
+.vscode/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# Logs, autosaves, and backups
+*.log
+*.tmp
+*.bak
+*.backup
+*~
+
+# Local packaging and cache output
+Releases/
+StagedBuilds/
+Windows/
+
