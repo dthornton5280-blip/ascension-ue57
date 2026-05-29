@@ -7,6 +7,12 @@ This local Git repo currently tracks the Ascension-owned Unreal baseline:
 - source-control ignore and LFS rules
 - `Content/Ascension/**`
 
+Remote:
+
+```text
+https://github.com/dthornton5280-blip/ascension-ue57.git
+```
+
 Large imported or template asset folders are intentionally left local for now:
 
 - `Content/RuinedCrypt`
@@ -29,3 +35,5 @@ D:\Projects\Ascension
 ```
 
 This Unreal project is the playable client and should consume rulebook, content, runtime, and scene-recipe truth from that repo.
+
+See `DEPENDENCIES.md` before reimporting or committing large visual packs.
