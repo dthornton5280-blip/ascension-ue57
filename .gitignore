@@ -27,3 +27,17 @@ Releases/
 StagedBuilds/
 Windows/
 
+# Large imported/template asset folders kept local until the Unreal remote and
+# LFS asset scope are deliberately approved.
+Content/Characters/
+Content/Cursor/
+Content/LevelPrototyping/
+Content/ParagonGideon/
+Content/RuinedCrypt/
+Content/TopDown/
+Content/Variant_Strategy/
+Content/Whisper/
+Content/__ExternalActors__/TopDown/
+Content/__ExternalActors__/Variant_Strategy/
+Content/__ExternalObjects__/TopDown/
+Content/__ExternalObjects__/Variant_Strategy/
